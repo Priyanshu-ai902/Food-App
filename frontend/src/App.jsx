@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './pages/Navbar'
 import Header from './components/Header'
 import RecommendedFood from './components/RecommendedFood'
+import Service from './components/Service'
 
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
       <Navbar/>
       <Header/>
       <RecommendedFood/>
+      <Service/>
     </div>
   )
 }
