@@ -5,6 +5,7 @@ import RecommendedFood from './components/RecommendedFood'
 import Service from './components/Service'
 import NewFood from './components/NewFood'
 import Service2 from './components/Service2'
+import Special from './components/Special'
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <Service/>
       <NewFood/>
       <Service2/>
+      <Special/>
     </div>
   )
 }
