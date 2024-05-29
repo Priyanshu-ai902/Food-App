@@ -5,7 +5,6 @@ function Service2() {
         <div className='py-3 px-10 sm:px-4 md:px-6 lg:px-6'>
             <div className="container mx-auto py-[2vh]">
                 <div className="grid grid-cols-1 relative lg:grid-cols-2 gap-8 items-center">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf0nygh1drSs_S891q8MmtZYEiagRDs5qPyw&s" alt="" className='w-full md:h-[32rem] mx-auto justify-end' />
 
                     <div className="w-full md:w-[32rem] flex flex-col space-y-6">
                         <div className="text-2xl md:text-3xl font-bold text-blue-900 lg:text-4xl">
@@ -20,7 +19,7 @@ function Service2() {
                             </button>
                         </div>
                     </div>
-                    
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPrkvQfBHxQWx64m7jwRJ_-5B1Nh8nqTAAA&s" alt="" className='h-[32rem] mx-auto justify-end'/>
                 </div>
             </div>
         </div>
